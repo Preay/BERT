@@ -12,5 +12,6 @@ It basically helps to generate a meaning full vector out of a sentence or word s
 
 Generally size vector of BERT is 768 which contextualize the meaning of that particular model.
 
+Collab Link: https://colab.research.google.com/drive/1NVTc69eh1YLauYDbW6_eZYc4jYBrEM5X?usp=sharing
 
 
