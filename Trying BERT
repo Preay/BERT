@@ -1,0 +1,16 @@
+Google language model ( Bidirectional Encoder Representation From Transformer)
+
+	Model is used to 
+	• bring similarities among words
+	• Generate contextualized meaning of word/ sentence
+	
+Two types base(12) and large(24) 
+
+https://tfhub.dev/google/collections/bert/1 documentation 
+
+It basically helps to generate a meaning full vector out of a sentence or word so that it can be used in NLP model
+
+Generally size vector of BERT is 768 which contextualize the meaning of that particular model.
+
+
+
